@@ -1,0 +1,9 @@
+package Behavior;
+
+public class FakeQuack extends Quack {
+
+	@Override
+	public void Quack() {
+		System.out.println("Imitating quack");
+	}
+}

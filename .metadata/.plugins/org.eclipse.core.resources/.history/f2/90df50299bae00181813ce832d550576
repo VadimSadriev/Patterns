@@ -1,0 +1,12 @@
+import Interfaces.*;
+import Behavior.*;
+
+public class DuckyDecoy{
+
+	
+	public public DuckyDecoy() {
+		
+	}
+
+		
+}

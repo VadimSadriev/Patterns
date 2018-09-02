@@ -1,0 +1,12 @@
+import Interfaces.*;
+import Behavior.*;
+
+public class DuckyDecoy implements IQuackBehavior{
+
+	@Override
+	public void quack() {
+		System.out.println("Imitating quack");
+		
+	}
+
+}

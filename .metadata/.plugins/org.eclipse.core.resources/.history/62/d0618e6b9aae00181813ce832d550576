@@ -1,0 +1,6 @@
+import Interfaces.*;
+import Behavior.*;
+
+public class DuckyDecoy implements IQuackBehavior, IFlyBehavior{
+
+}

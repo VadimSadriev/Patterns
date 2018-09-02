@@ -1,0 +1,10 @@
+import Behavior.*;
+public class MallardDuck  extends Duck{
+
+	private String name = "im mallard";
+	
+	public MallardDuck() {
+		quackBehavior = new Quack();
+		flyBehavior = new FlyWithWings();
+	}
+}

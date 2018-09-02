@@ -1,0 +1,21 @@
+import Interfaces.*;
+
+
+public abstract class Duck {
+	
+protected IFlyBehavior flyBehavior;
+
+protected IQuackBehavior quackBehavior;
+	
+public void performQuack(){
+	//quackBehavior.quack();
+}
+
+public void performFly() {
+	flyBehavior.fly();
+}
+
+public void swim() {
+	
+}
+}
