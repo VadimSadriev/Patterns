@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="Interfaces.IFlyBehavior"/>
     <fullyQualifiedTypeName name="Behavior.FlyWithWings"/>
+    <fullyQualifiedTypeName name="Duck"/>
+    <fullyQualifiedTypeName name="MallardDuck"/>
+    <fullyQualifiedTypeName name="Behavior.FlyNoWay"/>
+    <fullyQualifiedTypeName name="Behavior.FlyRocketPowered"/>
+    <fullyQualifiedTypeName name="Interfaces.IFlyBehavior"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="Interfaces.IQuackBehavior"/>
+    <fullyQualifiedTypeName name="DuckyDecoy"/>
+    <fullyQualifiedTypeName name="com.sun.tools.corba.se.idl.InterfaceState"/>
+    <fullyQualifiedTypeName name="Interfaces.ISubject"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="CurrentConditionsDisplay"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="Interfaces.IObserver"/>
+    <fullyQualifiedTypeName name="java.util.Observable"/>
+    <fullyQualifiedTypeName name="java.util.Observer"/>
+    <fullyQualifiedTypeName name="javax.swing.JFrame"/>
+    <fullyQualifiedTypeName name="javax.swing.JButton"/>
+    <fullyQualifiedTypeName name="java.awt.BorderLayout"/>
+    <fullyQualifiedTypeName name="Beverage"/>
+    <fullyQualifiedTypeName name="HouseBlend"/>
+    <fullyQualifiedTypeName name="Mocha"/>
+    <fullyQualifiedTypeName name="java.io.InputStream"/>
+    <fullyQualifiedTypeName name="LowerCaseInputStream"/>
+    <fullyQualifiedTypeName name="java.io.BufferedInputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
 </qualifiedTypeNameHistroy>

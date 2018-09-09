@@ -1,7 +1,0 @@
-package Behavior;
-import Interfaces.*;
-
-public class Quack implements IQuackBehavior{
-
-	//quack :)
-}
