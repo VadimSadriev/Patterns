@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy>
-    <typeInfo handle="=Watcher/src&lt;Interfaces{IObserver.java[IObserver" modifiers="513" timestamp="1535908095184"/>
-    <typeInfo handle="=Watcher/src&lt;Interfaces{IDisplayElement.java[IDisplayElement" modifiers="513" timestamp="1535908169165"/>
-    <typeInfo handle="=Watcher/C:\/Program Files\/Java\/jre-10.0.1\/lib\/jrt-fs.jar`java.base&lt;java.util(Observable.class[Observable" modifiers="1048609" timestamp="1525021072681"/>
-    <typeInfo handle="=Decorator/src&lt;{Beverage.java[Beverage" modifiers="1025" timestamp="1536498925171"/>
-    <typeInfo handle="=Decorator/C:\/Program Files\/Java\/jre-10.0.1\/lib\/jrt-fs.jar`java.base&lt;java.io(FilterInputStream.class[FilterInputStream" modifiers="33" timestamp="1525021072681"/>
-</typeInfoHistroy>
