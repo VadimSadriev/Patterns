@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Watcher.Interfaces
+﻿namespace Watcher.Interfaces
 {
     public interface IObservable
     {

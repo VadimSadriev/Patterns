@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Watcher", "Watcher\Watcher.csproj", "{C943C4A9-22C0-4208-8D06-620AA39951ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stratagy", "Stratagy\Stratagy.csproj", "{2944B51A-E9FD-4FAE-B201-07147C758726}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{7869C8AD-91E7-4A12-81C2-3EE2705EA02E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C943C4A9-22C0-4208-8D06-620AA39951ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C943C4A9-22C0-4208-8D06-620AA39951ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C943C4A9-22C0-4208-8D06-620AA39951ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C943C4A9-22C0-4208-8D06-620AA39951ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2944B51A-E9FD-4FAE-B201-07147C758726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2944B51A-E9FD-4FAE-B201-07147C758726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2944B51A-E9FD-4FAE-B201-07147C758726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2944B51A-E9FD-4FAE-B201-07147C758726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7869C8AD-91E7-4A12-81C2-3EE2705EA02E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7869C8AD-91E7-4A12-81C2-3EE2705EA02E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7869C8AD-91E7-4A12-81C2-3EE2705EA02E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7869C8AD-91E7-4A12-81C2-3EE2705EA02E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F97BC79-70B4-4BC3-BB82-FA5EC7DE4980}
+	EndGlobalSection
+EndGlobal
